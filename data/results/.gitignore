@@ -1,0 +1,8 @@
+# Lefordított binárisok (Ezeket a GitHubon nem tároljuk)
+*.exe
+*.o
+*.out
+
+# Opcionális: Ha a generált képeid túl nagyok, ne töltsük fel őket
+# (A GitHub nem enged 100 MB-nál nagyobb fájlokat feltölteni!)
+data/samples/output*.png
